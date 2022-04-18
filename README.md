@@ -17,12 +17,11 @@ More information:
 <p align="left">
   <a href="https://github.com/vnk8071/AI-on-Cpp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=AI-on-Cpp&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AI-on-Cpp"></a>  
   <a href="https://github.com/vnk8071/deploy-website-django-heroku"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=deploy-website-django-heroku&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="deploy-website-django-heroku"></a>
-  
   <a href="https://github.com/DatacollectorVN/fpt-ai-data-competition"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DatacollectorVN&repo=fpt-ai-data-competition&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="fpt-ai-data-competition"></a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/vnk8071?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/vnk8071?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 # Stacks
