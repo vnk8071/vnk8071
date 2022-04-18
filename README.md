@@ -30,8 +30,8 @@ More information:
 <div align="left">
   <img width="5%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/> 
   <img width="5%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg"/> 
-  <img width="10%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg"/> 
+  <img width="8%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg"/> 
   <img width="5%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/>
-  <img width="10%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/>
+  <img width="8%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/>
 </div>
 
