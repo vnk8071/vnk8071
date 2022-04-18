@@ -2,7 +2,7 @@
 
 
 # Status
-<center><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vnk8071&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)"/></center>
+<p align="center"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=vnk8071&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)"/></p>
 
 # About
 I am  senior student at **International University** and Machine Learning Engineer part-time at **A2DS**.
