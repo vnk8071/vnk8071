@@ -18,6 +18,7 @@ More information:
   <a href="https://github.com/vnk8071/AI-on-Cpp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=AI-on-Cpp&theme=react&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="AI-on-Cpp"></a>  
   <a href="https://github.com/vnk8071/deploy-website-django-heroku"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=deploy-website-django-heroku&hide_border=true&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&theme=react&show_icons=false" alt="deploy-website-django-heroku"></a>
   <a href="https://github.com/DatacollectorVN/fpt-ai-data-competition"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DatacollectorVN&repo=fpt-ai-data-competition&hide_border=true&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&theme=react&show_icons=false" alt="fpt-ai-data-competition"></a>
+  <a href="https://github.com/vnk8071/nli-end-to-end"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=nli-end-to-end&hide_border=true&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&theme=react&show_icons=false" alt="nli-end-to-end"></a>
 </p>
 
 <p align="left">
@@ -29,7 +30,7 @@ More information:
   <img width="5%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/> 
   <img width="5%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg"/> 
   <img width="8%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg"/> 
-  <img width="5%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/>
+  <img width="10%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/>
   <img width="8%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/>
 </div>
 
