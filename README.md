@@ -15,7 +15,7 @@ Current workplace:
 
 More information:
 - Email: nguyenkhoi8071@gmail.com
-- Website: https://khoivn.herokuapp.com
+- Website: https://khoivn.space
 - Linkedin: https://www.linkedin.com/in/khoivn8071
 
 # 📘 My open source projects:
