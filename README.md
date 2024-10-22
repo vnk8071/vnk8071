@@ -25,11 +25,11 @@
 
 # About
 I am an ML Engineer.
-A Biomedical Engineering student with a passion for Computer Vision in the medical field. All the time, I just researched the knowledge related to that field by self-study, so I didn't get thorough instruction. However, I know how to find a solution, and I will solve it anyway.
+A Biomedical Engineering student passionate about Computer Vision in the medical field. All the time, I just researched the knowledge related to that field by self-study, so I didn't get thorough instruction. However, I know how to find a solution and will solve it anyway.
 
 Current workplace:
 
-- Graduated in Biomedical Engineering at International University - Vietnam National University HCMC.
+- I graduated with a degree in biomedical engineering from International University - Vietnam National University HCMC.
 - AI Engineer full-time at FPT Software (AI Valley).
 - Machine Learning Engineer part-time at A2DS Inc.
 
@@ -57,27 +57,14 @@ More information:
   <a href="https://github.com/vnk8071/anomaly-detection-in-industry-manufacturing"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=anomaly-detection-in-industry-manufacturing&hide_border=true&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&theme=react&show_icons=false" alt="anomaly-detection-in-industry-manufacturing"></a>
   <a href="https://github.com/vnk8071/E2E-AI-Chatbot"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=E2E-AI-Chatbot&hide_border=true&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&theme=react&show_icons=false" alt="E2E-AI-Chatbot"></a>
   <a href="https://github.com/vnk8071/machine-learning-learning-path"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=machine-learning-learning-path&hide_border=true&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&theme=react&show_icons=false" alt="machine-learning-learning-path"></a>
+  <a href="https://github.com/vnk8071/background-music-generation"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=background-music-generation&hide_border=true&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&theme=react&show_icons=false" alt="background-music-generation"></a>
+  <a href="https://github.com/vnk8071/AI-on-Cpp"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=AI-on-Cpp&theme=react&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="AI-on-Cpp"></a>
   <a href="https://github.com/vnk8071/CTA-Zero9-ZAIC2022-Lyric-Alignment"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=CTA-Zero9-ZAIC2022-Lyric-Alignment&hide_border=true&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&theme=react&show_icons=false" alt="CTA-Zero9-ZAIC2022-Lyric-Alignment"></a>
   <a href="https://github.com/DatacollectorVN/fpt-ai-data-competition"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DatacollectorVN&repo=fpt-ai-data-competition&hide_border=true&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&theme=react&show_icons=false" alt="fpt-ai-data-competition"></a>
-  <a href="https://github.com/vnk8071/yolov5-mask-detection"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=yolov5-mask-detection&hide_border=true&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&theme=react&show_icons=false" alt="yolov5-mask-detection"></a>
-  <a href="https://github.com/vnk8071/AI-on-Cpp"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=AI-on-Cpp&theme=react&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="AI-on-Cpp"></a>  
+  <a href="https://github.com/vnk8071/yolov5-mask-detection"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=yolov5-mask-detection&hide_border=true&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&theme=react&show_icons=false" alt="yolov5-mask-detection"></a>  
   <a href="https://github.com/vnk8071/nli-end-to-end"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=nli-end-to-end&hide_border=true&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&theme=react&show_icons=false" alt="nli-end-to-end"></a>
-  <a href="https://github.com/vnk8071/deploy-website-django-heroku"><img width="30%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=vnk8071&repo=deploy-website-django-heroku&hide_border=true&bg_color=1F222E&title_color=0080FF&icon_color=F8D866&theme=react&show_icons=false" alt="deploy-website-django-heroku"></a>
 </p>
 
 <p align="left">
   <a href="https://github.com/vnk8071?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
-
-# Stacks
-<div align="left">
-  <img width="5%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"/> 
-  <img width="5%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg"/> 
-  <img width="8%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg"/> 
-  <img width="10%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/>
-  <img width="5%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flask.svg"/>
-  <img width="8%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/>
-  <img width="10%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sqlite.svg"/>
-  <img width="8%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
-  <img width="5%" style="margin-left:30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
-</div>
