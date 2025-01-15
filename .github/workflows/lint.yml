@@ -3,6 +3,24 @@ name: lint
 on: [push, pull_request]
 
 jobs:
+  run-precommit:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Build packages, and install the wheel
+      run: |
+        pip install --upgrade pip
+        pip install pre-commit
+        pre-commit install
+    - name: Run pre-commit
+      run: pre-commit run --all-files
   run-lint:
     runs-on: ubuntu-latest
     defaults:
